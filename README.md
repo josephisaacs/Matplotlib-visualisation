@@ -1,0 +1,1 @@
+This work was originally submitted in November 2020, as my contribution to a group project for DATA1902 at the University of Sydney. The project required us to produce simple visualisations and data summaries based on a data set we had previously obtained from https://datasets.seed.nsw.gov.au/dataset/nsw-estuary-temperature-ph-and-salinity-data
